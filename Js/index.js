@@ -5,7 +5,7 @@ $(".home").mouseover(function() {
     $(this).css("color", "#ffffff");
 });
 
-$(".about_me").hover(function() {
+$(".home").hover(function() {
     $(this).css("cursor","pointer");
 }, function() {
     $(this).css("cursor", "auto");
