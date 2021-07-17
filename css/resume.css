@@ -32,10 +32,10 @@ li {
   padding: 0 50px 0 50px;
 }
 
-.home:hover {
+/* .home:hover {
   color: rgba(0,209,255,1);
   cursor: pointer;
-}
+} */
 
 .about_me {
   width: 155px;
@@ -48,10 +48,10 @@ li {
   padding: 0 50px 0 50px;
 }
 
-.about_me:hover {
+/* .about_me:hover {
   color: rgba(0,209,255,1);
   cursor: pointer;
-}
+} */
 
 .contact {
   width: 190px;
@@ -64,10 +64,10 @@ li {
   padding: 0 50px 0 50px;
 }
 
-.contact:hover {
+/* .contact:hover {
   color: rgba(0,209,255,1);
   cursor: pointer;
-}
+} */
 
 .resume {
   width: 130px;
@@ -91,10 +91,10 @@ li {
   padding: 0 50px 0 50px;
 }
 
-.projects:hover {
+/* .projects:hover {
   color: rgba(0,209,255,1);
   cursor: pointer;
-}
+} */
 
 .linkedin {
   width: 146px;
@@ -107,10 +107,10 @@ li {
   padding: 0 50px 0 50px;
 }
 
-.linkedin:hover {
+/* .linkedin:hover {
   color: rgba(0,209,255,1);
   cursor: pointer;
-}
+} */
 
 .space1 {
   height: 50px;
@@ -171,9 +171,9 @@ li {
     overflow: hidden;
   }
 
-  .button:hover {
+  /* .button:hover {
     background: rgba(0,209,255,1);
-    cursor: pointer;
+    cursor: pointer; */
   }
 
   .buttonSpace2 {
