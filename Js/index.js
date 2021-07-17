@@ -70,3 +70,17 @@ $(".linkedin").hover(function() {
 
 
 
+// .button hover & cursor change//
+$(".button").mouseover(function() {
+    $(this).css("background", "#00D1FF");
+}).mouseleave (function() {
+    $(this).css("background", "#ffffff");
+});
+
+$(".button").hover(function() {
+    $(this).css("cursor","pointer");
+}, function() {
+    $(this).css("cursor", "auto");
+});
+
+
