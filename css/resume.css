@@ -125,26 +125,26 @@ li {
 }
 
 .spaceButton {
-  height: 70px;
+  height: 30px;
 }
 
-.footer {
+/* .footer {
   width: 202px;
   height: 0;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover
-  
-}
+} */
+
 .logo {
-  width: 199px;
-  height: 142px;
-  background: url("../images/CB-Logo-w.png");
+  width: 173px;
+  height: 140px;
+  background: url("../images/CB-Logo-w-copyright.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-.copyright {
+/* .copyright {
   width: 197px;
   color: rgba(255,255,255,1);
   font-family: Public Sans;
@@ -153,8 +153,8 @@ li {
   display: inline-flex;
   /*position: absolute;
   left: 20px;
-  top: 2142px;*/
-}
+  top: 2142px;
+} */
 
 .button {
     width: 300px;
